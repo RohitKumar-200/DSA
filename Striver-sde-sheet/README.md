@@ -10,3 +10,4 @@
 | 2 | Repeat and missing number | [🤔](https://www.geeksforgeeks.org/find-a-repeating-and-a-missing-number/) [👀](https://youtu.be/5nMGY4VUoRY) [😎](https://github.com/RohitKumar-200/DSA/blob/main/Striver-sde-sheet/2_Repeat_and_missing_number.md) |
 | 3 | Merging two sorted arrays | [🤔](https://www.geeksforgeeks.org/merge-two-sorted-arrays-o1-extra-space/) [👀](https://youtu.be/hVl2b3bLzBw) [😎](https://github.com/RohitKumar-200/DSA/blob/main/Striver-sde-sheet/3_Merging_two_sorted_arrays.md) |
 | 4 | Kadane's algorithm | [🤔](https://leetcode.com/problems/maximum-subarray/) [👀](https://youtu.be/w_KEocd__20) [😎](https://github.com/RohitKumar-200/DSA/blob/main/Striver-sde-sheet/4_Kadane_algorithm.md) |
+| 5 | Merge overlapping subintervals | [🤔](https://leetcode.com/problems/merge-intervals/) [👀](https://youtu.be/2JzRBPFYbKE) [😎](https://github.com/RohitKumar-200/DSA/blob/main/Striver-sde-sheet/5_Merge_overlapping_subintervals.md) |
