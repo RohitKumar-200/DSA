@@ -15,3 +15,4 @@
 | 6 | Find duplicate in array | [🤔](https://leetcode.com/problems/find-the-duplicate-number/) [👀](https://youtu.be/32Ll35mhWg0) [😎](https://github.com/RohitKumar-200/DSA/blob/main/Striver-sde-sheet/6_Find_duplicate_in_array.md) |
 | Day 2 | Arrays ||
 | 7 | Set matrix zeros | [🤔](https://leetcode.com/problems/set-matrix-zeroes/) [👀](https://youtu.be/M65xBewcqcI) [😎](https://github.com/RohitKumar-200/DSA/blob/main/Striver-sde-sheet/7_Set_matrix_zeros.md) |
+| 8 | Pascal's tirangle | [🤔](https://leetcode.com/problems/pascals-triangle/) [👀](https://youtu.be/6FLvhQjZqvM) [😎](https://github.com/RohitKumar-200/DSA/blob/main/Striver-sde-sheet/8_Pascal_triangle.md) |
