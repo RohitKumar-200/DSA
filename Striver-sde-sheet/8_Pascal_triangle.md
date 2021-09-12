@@ -1,5 +1,7 @@
 # Pascal's triangle
 
+![Pascal's triangle](https://upload.wikimedia.org/wikipedia/commons/0/0d/PascalTriangleAnimated2.gif)
+
 ## Problem 1 (Leetcode)
 
 Given an integer numRows, return the first numRows of Pascal's triangle.
