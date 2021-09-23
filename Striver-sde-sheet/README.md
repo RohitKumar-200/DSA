@@ -20,3 +20,4 @@
 | 10 | Inversion count | [🤔](https://practice.geeksforgeeks.org/problems/inversion-of-array-1587115620/1#) [👀](https://youtu.be/kQ1mJlwW-c0) [😎](https://github.com/RohitKumar-200/DSA/blob/main/Striver-sde-sheet/10_Inversion_of_array.md) |
 | 11 | Best time to buy and sell stock | [🤔](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) [👀](https://youtu.be/eMSfBgbiEjk) [😎](https://github.com/RohitKumar-200/DSA/blob/main/Striver-sde-sheet/11_Best_time_to_buy_and_sell_stock.md) |
 | 12 | Rotate matrix | [🤔](https://leetcode.com/problems/rotate-image/) [👀](https://youtu.be/Y72QeX0Efxw) [😎](https://github.com/RohitKumar-200/DSA/blob/main/Striver-sde-sheet/12_Rotate_matrix.md) |
+| Day 3 | Arrays / Maths ||
