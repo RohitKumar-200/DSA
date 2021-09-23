@@ -21,3 +21,5 @@
 | 11 | Best time to buy and sell stock | [🤔](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) [👀](https://youtu.be/eMSfBgbiEjk) [😎](https://github.com/RohitKumar-200/DSA/blob/main/Striver-sde-sheet/11_Best_time_to_buy_and_sell_stock.md) |
 | 12 | Rotate matrix | [🤔](https://leetcode.com/problems/rotate-image/) [👀](https://youtu.be/Y72QeX0Efxw) [😎](https://github.com/RohitKumar-200/DSA/blob/main/Striver-sde-sheet/12_Rotate_matrix.md) |
 | Day 3 | Arrays / Maths ||
+| 13(1) | Search in a 2D matrix (gfg) | [🤔](https://practice.geeksforgeeks.org/problems/search-in-a-matrix17201720/1#) [👀](https://youtu.be/ZYpYur0znng) [😎](https://github.com/RohitKumar-200/DSA/blob/main/Striver-sde-sheet/13_1_Search_in_2d_matrix_gfg.md) |
+| 13(2) | Search in a 2D matrix (leetcode) | [🤔](https://leetcode.com/problems/search-a-2d-matrix/) [👀](https://youtu.be/ZYpYur0znng) [😎](https://github.com/RohitKumar-200/DSA/blob/main/Striver-sde-sheet/13_2_Search_in_2d_matrix_leetcode.md) |
