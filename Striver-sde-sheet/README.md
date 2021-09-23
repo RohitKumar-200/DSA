@@ -17,3 +17,4 @@
 | 7 | Set matrix zeros | [🤔](https://leetcode.com/problems/set-matrix-zeroes/) [👀](https://youtu.be/M65xBewcqcI) [😎](https://github.com/RohitKumar-200/DSA/blob/main/Striver-sde-sheet/7_Set_matrix_zeros.md) |
 | 8 | Pascal's tirangle | [🤔](https://leetcode.com/problems/pascals-triangle/) [👀](https://youtu.be/6FLvhQjZqvM) [😎](https://github.com/RohitKumar-200/DSA/blob/main/Striver-sde-sheet/8_Pascal_triangle.md) |
 | 9 | Next permutation | [🤔](https://leetcode.com/problems/next-permutation/) [👀](https://youtu.be/LuLCLgMElus) [😎](https://github.com/RohitKumar-200/DSA/blob/main/Striver-sde-sheet/9_Next_permutation.md) |
+| 10 | Inversion count | [🤔](https://practice.geeksforgeeks.org/problems/inversion-of-array-1587115620/1#) [👀](https://youtu.be/kQ1mJlwW-c0) [😎](https://github.com/RohitKumar-200/DSA/blob/main/Striver-sde-sheet/10_Inversion_of_array.md) |
