@@ -25,3 +25,4 @@
 | 13(2) | Search in a 2D matrix (leetcode) | [🤔](https://leetcode.com/problems/search-a-2d-matrix/) [👀](https://youtu.be/ZYpYur0znng) [😎](https://github.com/RohitKumar-200/DSA/blob/main/Striver-sde-sheet/13_2_Search_in_2d_matrix_leetcode.md) |
 | 14 | Calculate Pow(x, n) | [🤔](https://leetcode.com/problems/powx-n/) [👀](https://youtu.be/l0YC3876qxg) [😎](https://github.com/RohitKumar-200/DSA/blob/main/Striver-sde-sheet/14_Pow_x_n.md) |
 | 15 | Majority element (>N/2 times) | [🤔](https://leetcode.com/problems/majority-element/) [👀](https://youtu.be/AoX3BPWNnoE) [😎](https://github.com/RohitKumar-200/DSA/blob/main/Striver-sde-sheet/15_Majority_element.md) |
+| 16 | Majority element II (>N/3 times) | [🤔](https://leetcode.com/problems/majority-element-ii/) [👀](https://youtu.be/yDbkQd9t2ig) [😎](https://github.com/RohitKumar-200/DSA/blob/main/Striver-sde-sheet/16_Majority_element_II.md) |
