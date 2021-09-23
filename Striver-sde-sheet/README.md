@@ -23,3 +23,4 @@
 | Day 3 | Arrays / Maths ||
 | 13(1) | Search in a 2D matrix (gfg) | [🤔](https://practice.geeksforgeeks.org/problems/search-in-a-matrix17201720/1#) [👀](https://youtu.be/ZYpYur0znng) [😎](https://github.com/RohitKumar-200/DSA/blob/main/Striver-sde-sheet/13_1_Search_in_2d_matrix_gfg.md) |
 | 13(2) | Search in a 2D matrix (leetcode) | [🤔](https://leetcode.com/problems/search-a-2d-matrix/) [👀](https://youtu.be/ZYpYur0znng) [😎](https://github.com/RohitKumar-200/DSA/blob/main/Striver-sde-sheet/13_2_Search_in_2d_matrix_leetcode.md) |
+| 14 | Calculate Pow(x, n) | [🤔](https://leetcode.com/problems/powx-n/) [👀](https://youtu.be/l0YC3876qxg) [😎](https://github.com/RohitKumar-200/DSA/blob/main/Striver-sde-sheet/14_Pow_x_n.md) |
