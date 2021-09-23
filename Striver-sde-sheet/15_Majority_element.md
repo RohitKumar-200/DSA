@@ -43,7 +43,29 @@ int majorityElement(vector<int>& nums) {
 }
 ```
 
-## Approach 3 (Moore's Voting Algorithm)
+## Approach 3 (Sorting)
+
+Time complexity : O(N*log(N))  
+Space complexity : O(1) (Ignoring space taken by sorting algorithm, else O(N))
+
+```cpp
+int majorityElement(vector<int>& nums) {
+    sort(nums.begin(), nums.end());
+    int c=1, n=nums.size();
+    for(int i=1; i<n; i++) {
+        if(nums[i] == nums[i-1])
+            c++;
+        else {
+            if(c > n/2)
+                return nums[i-1];
+            c=1;
+        } 
+    }
+    return nums[n-1];
+}
+```
+
+## Approach 4 (Moore's Voting Algorithm)
 
 Time complexity : O(N)  
 Space complexity : O(1)
