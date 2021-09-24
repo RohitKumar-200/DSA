@@ -27,4 +27,4 @@
 | 15 | Majority element (>N/2 times) | [🤔](https://leetcode.com/problems/majority-element/) [👀](https://youtu.be/AoX3BPWNnoE) [😎](https://github.com/RohitKumar-200/DSA/blob/main/Striver-sde-sheet/15_Majority_element.md) |
 | 16 | Majority element II (>N/3 times) | [🤔](https://leetcode.com/problems/majority-element-ii/) [👀](https://youtu.be/yDbkQd9t2ig) [😎](https://github.com/RohitKumar-200/DSA/blob/main/Striver-sde-sheet/16_Majority_element_II.md) |
 | 17 | Grid unique paths | [🤔](https://leetcode.com/problems/unique-paths/) [👀](https://youtu.be/t_f0nwwdg5o) [😎](https://github.com/RohitKumar-200/DSA/blob/main/Striver-sde-sheet/17_Grid_unique_paths.md) |
-| 18 | Grid unique paths | [🤔](https://leetcode.com/problems/reverse-pairs/) [👀](https://youtu.be/S6rsAlj_iB4) [😎](https://github.com/RohitKumar-200/DSA/blob/main/Striver-sde-sheet/18_Reverse_pairs.md) |
+| 18 | Reverse pairs | [🤔](https://leetcode.com/problems/reverse-pairs/) [👀](https://youtu.be/S6rsAlj_iB4) [😎](https://github.com/RohitKumar-200/DSA/blob/main/Striver-sde-sheet/18_Reverse_pairs.md) |
