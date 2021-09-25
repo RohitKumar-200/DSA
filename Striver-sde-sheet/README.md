@@ -30,3 +30,4 @@
 | 18 | Reverse pairs | [🤔](https://leetcode.com/problems/reverse-pairs/) [👀](https://youtu.be/S6rsAlj_iB4) [😎](https://github.com/RohitKumar-200/DSA/blob/main/Striver-sde-sheet/18_Reverse_pairs.md) |
 | Day 4 | Hashing ||
 | 19 | Two sum problem | [🤔](https://leetcode.com/problems/two-sum/) [👀](https://youtu.be/dRUpbt8vHpo) [😎](https://github.com/RohitKumar-200/DSA/blob/main/Striver-sde-sheet/19_Two_sum_problem.md) |
+| 20 | Four sum problem | [🤔](https://leetcode.com/problems/4sum/) [👀](https://youtu.be/4ggF3tXIAp0) [😎](https://github.com/RohitKumar-200/DSA/blob/main/Striver-sde-sheet/20_Four_sum_problem.md) |
