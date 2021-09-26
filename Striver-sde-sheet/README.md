@@ -1,6 +1,6 @@
 # Striver SDE Sheet
 
-> Links : [SDE Sheet](https://bit.ly/takeUforward_SDE) -- [Youtube playlist](https://youtube.com/playlist?list=PLgUwDviBIf0rPG3Ictpu74YWBQ1CaBkm2) -- [SDE Sheet (Core)](https://docs.google.com/document/d/1sQlRDw6--HwyxeFL7b4kBsOG-Tz7rXMbpWNnfvJErA4/edit)
+> Links : [SDE Sheet](https://bit.ly/takeUforward_SDE) -- [Youtube playlist](https://youtube.com/playlist?list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma) -- [SDE Sheet (Core)](https://docs.google.com/document/d/1sQlRDw6--HwyxeFL7b4kBsOG-Tz7rXMbpWNnfvJErA4/edit)
 
 ## Question list
 
