@@ -31,3 +31,4 @@
 | Day 4 | Hashing ||
 | 19 | Two sum problem | [🤔](https://leetcode.com/problems/two-sum/) [👀](https://youtu.be/dRUpbt8vHpo) [😎](https://github.com/RohitKumar-200/DSA/blob/main/Striver-sde-sheet/19_Two_sum_problem.md) |
 | 20 | Four sum problem | [🤔](https://leetcode.com/problems/4sum/) [👀](https://youtu.be/4ggF3tXIAp0) [😎](https://github.com/RohitKumar-200/DSA/blob/main/Striver-sde-sheet/20_Four_sum_problem.md) |
+| 21 | Longest consecutive sequence | [🤔](https://leetcode.com/problems/longest-consecutive-sequence/) [👀](https://youtu.be/qgizvmgeyUM) [😎](https://github.com/RohitKumar-200/DSA/blob/main/Striver-sde-sheet/21_Longest_consecutive_sequence.md) |
