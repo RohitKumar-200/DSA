@@ -27,7 +27,7 @@ int longestConsecutive(vector<int>& nums) {
 }
 ```
 
-## Approach 1 (Hash)
+## Approach 2 (Hash)
 
 Time complexity : O(N)  
 Space complexity : O(N)
