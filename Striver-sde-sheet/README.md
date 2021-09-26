@@ -35,3 +35,4 @@
 | 22 | Largest subarray with 0 sum | [🤔](https://practice.geeksforgeeks.org/problems/largest-subarray-with-0-sum/1) [👀](https://youtu.be/xmguZ6GbatA) [😎](https://github.com/RohitKumar-200/DSA/blob/main/Striver-sde-sheet/22_Largest_subarray_with_0_sum.md) |
 | 23 | Count no of subarray with given XOR | [🤔](https://www.interviewbit.com/problems/subarray-with-given-xor/) [👀](https://youtu.be/lO9R5CaGRPY) [😎](https://github.com/RohitKumar-200/DSA/blob/main/Striver-sde-sheet/23_Count_no_of_subarrays_with_given_xor.md) |
 | 24 | Longest substring without repeat | [🤔](https://leetcode.com/problems/longest-substring-without-repeating-characters/) [👀](https://youtu.be/qtVh-XEpsJo) [😎](https://github.com/RohitKumar-200/DSA/blob/main/Striver-sde-sheet/24_Longest_substring_without_repeat.md) |
+| Day 5 | Linked list ||
