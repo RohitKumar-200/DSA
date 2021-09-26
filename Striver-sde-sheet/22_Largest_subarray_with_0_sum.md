@@ -13,7 +13,7 @@ Space complexity : O(1)
 int maxLen(vector<int>&A, int n) {
     int res=0;
     for(int i=0; i<n; i++) {
-        for(int j=i+1; j<n; j++) {
+        for(int j=i; j<n; j++) {
             int sum=0;
             for(int k=i; k<=j; k++)
                 sum+=A[k];
@@ -34,8 +34,8 @@ Space complexity : O(1)
 int maxLen(vector<int>&A, int n) {
     int res=0;
     for(int i=0; i<n; i++) {
-        int sum=A[i];
-        for(int j=i+1; j<n; j++) {
+        int sum=0;
+        for(int j=i; j<n; j++) {
             sum+=A[j];
             if(sum==0)
                 res = max(res, j-i+1);
