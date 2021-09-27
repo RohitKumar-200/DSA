@@ -37,3 +37,4 @@
 | 24 | Longest substring without repeat | [🤔](https://leetcode.com/problems/longest-substring-without-repeating-characters/) [👀](https://youtu.be/qtVh-XEpsJo) [😎](https://github.com/RohitKumar-200/DSA/blob/main/Striver-sde-sheet/24_Longest_substring_without_repeat.md) |
 | Day 5 | Linked list ||
 | 25 | Reverse linked list | [🤔](https://leetcode.com/problems/reverse-linked-list/) [👀](https://youtu.be/iRtLEoL-r-g) [😎](https://github.com/RohitKumar-200/DSA/blob/main/Striver-sde-sheet/25_Reverse_linked_list.md) |
+| 26 | Middle of linked list | [🤔](https://leetcode.com/problems/middle-of-the-linked-list/) [👀](https://youtu.be/sGdwSH8RK-o) [😎](https://github.com/RohitKumar-200/DSA/blob/main/Striver-sde-sheet/26_Find_middle_of_linked_list.md) |
