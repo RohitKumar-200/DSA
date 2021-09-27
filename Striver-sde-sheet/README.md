@@ -36,3 +36,4 @@
 | 23 | Count no of subarray with given XOR | [🤔](https://www.interviewbit.com/problems/subarray-with-given-xor/) [👀](https://youtu.be/lO9R5CaGRPY) [😎](https://github.com/RohitKumar-200/DSA/blob/main/Striver-sde-sheet/23_Count_no_of_subarrays_with_given_xor.md) |
 | 24 | Longest substring without repeat | [🤔](https://leetcode.com/problems/longest-substring-without-repeating-characters/) [👀](https://youtu.be/qtVh-XEpsJo) [😎](https://github.com/RohitKumar-200/DSA/blob/main/Striver-sde-sheet/24_Longest_substring_without_repeat.md) |
 | Day 5 | Linked list ||
+| 25 | Reverse linked list | [🤔](https://leetcode.com/problems/reverse-linked-list/) [👀](https://youtu.be/iRtLEoL-r-g) [😎](https://github.com/RohitKumar-200/DSA/blob/main/Striver-sde-sheet/25_Reverse_linked_list.md) |
