@@ -42,3 +42,4 @@
 | 28 | Remove nth node from end of list | [🤔](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) [👀](https://youtu.be/Lhu3MsXZy-Q) [😎](https://github.com/RohitKumar-200/DSA/blob/main/Striver-sde-sheet/28_Remove_nth_node_from_end_of_linked_list.md) |
 | 29 | Delete given node in a linked list | [🤔](https://leetcode.com/problems/delete-node-in-a-linked-list/) [👀](https://youtu.be/icnp4FJdZ_c) [😎](https://github.com/RohitKumar-200/DSA/blob/main/Striver-sde-sheet/29_Delete_given_node_in_a_linked_list.md) |
 | 30 | Add two numbers as linked list | [🤔](https://leetcode.com/problems/add-two-numbers/) [👀](https://youtu.be/LBVsXSMOIk4) [😎](https://github.com/RohitKumar-200/DSA/blob/main/Striver-sde-sheet/30_Add_two_numbers_as_linked_list.md) |
+| Day 6 | Linked list ||
