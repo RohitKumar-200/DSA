@@ -44,3 +44,4 @@
 | 30 | Add two numbers as linked list | [🤔](https://leetcode.com/problems/add-two-numbers/) [👀](https://youtu.be/LBVsXSMOIk4) [😎](https://github.com/RohitKumar-200/DSA/blob/main/Striver-sde-sheet/30_Add_two_numbers_as_linked_list.md) |
 | Day 6 | Linked list ||
 | 31 | Intersection of two linked list | [🤔](https://leetcode.com/problems/intersection-of-two-linked-lists/) [👀](https://youtu.be/u4FWXfgS8jw) [😎](https://github.com/RohitKumar-200/DSA/blob/main/Striver-sde-sheet/31_Intersection_of_two_linked_list.md) |
+| 32 | Detect a cycle in linked list | [🤔](https://leetcode.com/problems/linked-list-cycle/) [👀](https://youtu.be/354J83hX7RI) [😎](https://github.com/RohitKumar-200/DSA/blob/main/Striver-sde-sheet/32_Detect_a_cycle_in_linked_list.md) |
