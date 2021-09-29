@@ -8,7 +8,25 @@ There is a cycle in a linked list if there is some node in the list that can be 
 
 Return `true` if there is a cycle in the linked list. Otherwise, return `false`.
 
-## Solution
+## Approach 1 (Hashing)
+
+Time complexity : O(N)  
+Space complexity : O(N)
+
+```cpp
+bool hasCycle(ListNode *head) {
+    unordered_set<ListNode*> st;
+    while(head != NULL) {
+        if(st.find(head) != st.end())
+            return true;
+        st.insert(head);
+        head = head -> next;
+    }
+    return false;
+}
+```
+
+## Approach 2 (Two pointers)
 
 Time complexity : O(N)  
 space complexity : O(1)
