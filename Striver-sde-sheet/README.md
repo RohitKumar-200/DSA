@@ -45,3 +45,4 @@
 | Day 6 | Linked list ||
 | 31 | Intersection of two linked list | [🤔](https://leetcode.com/problems/intersection-of-two-linked-lists/) [👀](https://youtu.be/u4FWXfgS8jw) [😎](https://github.com/RohitKumar-200/DSA/blob/main/Striver-sde-sheet/31_Intersection_of_two_linked_list.md) |
 | 32 | Detect a cycle in linked list | [🤔](https://leetcode.com/problems/linked-list-cycle/) [👀](https://youtu.be/354J83hX7RI) [😎](https://github.com/RohitKumar-200/DSA/blob/main/Striver-sde-sheet/32_Detect_a_cycle_in_linked_list.md) |
+| 33 | Reverse linked list in k-groups | [🤔](https://leetcode.com/problems/reverse-nodes-in-k-group/) [👀](https://youtu.be/Of0HPkk3JgI) [😎](https://github.com/RohitKumar-200/DSA/blob/main/Striver-sde-sheet/33_Reverse_linked_list_in_groups_of_k_size.md) |
