@@ -51,3 +51,4 @@
 | 36 | Flattening of a linked list | [🤔](https://practice.geeksforgeeks.org/problems/flattening-a-linked-list/1#) [👀](https://youtu.be/ysytSSXpAI0) [😎](https://github.com/RohitKumar-200/DSA/blob/main/Striver-sde-sheet/36_Flattening_of_a_linked_list.md) |
 | 37 | Rotate a linked list | [🤔](https://leetcode.com/problems/rotate-list/) [👀](https://youtu.be/9VPm6nEbVPA) [😎](https://github.com/RohitKumar-200/DSA/blob/main/Striver-sde-sheet/37_Rotate_a_linked_list.md) |
 | Day 7 | Two pointer ||
+| 38 | Copy linked list with random pointer | [🤔](https://leetcode.com/problems/copy-list-with-random-pointer/) [👀](https://youtu.be/VNf6VynfpdM) [😎](https://github.com/RohitKumar-200/DSA/blob/main/Striver-sde-sheet/38_Copy_linked_list_with_random_pointer.md) |
