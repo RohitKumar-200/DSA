@@ -56,3 +56,4 @@
 | 40 | Trapping rain water | [🤔](https://leetcode.com/problems/trapping-rain-water/) [👀](https://youtu.be/m18Hntz4go8) [😎](https://github.com/RohitKumar-200/DSA/blob/main/Striver-sde-sheet/40_Trapping_rain_water.md) |
 | 41 | Remove duplicates from sorted array | [🤔](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) [👀](https://youtu.be/Fm_p9lJ4Z_8) [😎](https://github.com/RohitKumar-200/DSA/blob/main/Striver-sde-sheet/41_Remove_duplicates_from_sorted_array.md) |
 | 42 | Max consecutive ones | [🤔](https://leetcode.com/problems/max-consecutive-ones/) [👀](https://youtu.be/Mo33MjjMlyA) [😎](https://github.com/RohitKumar-200/DSA/blob/main/Striver-sde-sheet/42_Max_consecutive_ones.md) |
+| Day 8 | Greedy ||
