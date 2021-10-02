@@ -52,6 +52,7 @@
 | 37 | Rotate a linked list | [🤔](https://leetcode.com/problems/rotate-list/) [👀](https://youtu.be/9VPm6nEbVPA) [😎](https://github.com/RohitKumar-200/DSA/blob/main/Striver-sde-sheet/37_Rotate_a_linked_list.md) |
 | Day 7 | Two pointer ||
 | 38 | Copy linked list with random pointer | [🤔](https://leetcode.com/problems/copy-list-with-random-pointer/) [👀](https://youtu.be/VNf6VynfpdM) [😎](https://github.com/RohitKumar-200/DSA/blob/main/Striver-sde-sheet/38_Copy_linked_list_with_random_pointer.md) |
+| 39 | Three sum | [🤔](https://leetcode.com/problems/3sum/) [👀](https://youtu.be/onLoX6Nhvmg) [😎](https://github.com/RohitKumar-200/DSA/blob/main/Striver-sde-sheet/39_Three_sum.md) |
 | 40 | Trapping rain water | [🤔](https://leetcode.com/problems/trapping-rain-water/) [👀](https://youtu.be/m18Hntz4go8) [😎](https://github.com/RohitKumar-200/DSA/blob/main/Striver-sde-sheet/40_Trapping_rain_water.md) |
 | 41 | Remove duplicates from sorted array | [🤔](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) [👀](https://youtu.be/Fm_p9lJ4Z_8) [😎](https://github.com/RohitKumar-200/DSA/blob/main/Striver-sde-sheet/41_Remove_duplicates_from_sorted_array.md) |
 | 42 | Max consecutive ones | [🤔](https://leetcode.com/problems/max-consecutive-ones/) [👀](https://youtu.be/Mo33MjjMlyA) [😎](https://github.com/RohitKumar-200/DSA/blob/main/Striver-sde-sheet/42_Max_consecutive_ones.md) |
