@@ -58,3 +58,4 @@
 | 42 | Max consecutive ones | [🤔](https://leetcode.com/problems/max-consecutive-ones/) [👀](https://youtu.be/Mo33MjjMlyA) [😎](https://github.com/RohitKumar-200/DSA/blob/main/Striver-sde-sheet/42_Max_consecutive_ones.md) |
 | Day 8 | Greedy ||
 | 43 | N meetings in one room | [🤔](https://practice.geeksforgeeks.org/problems/n-meetings-in-one-room-1587115620/1#) [👀](https://youtu.be/II6ziNnub1Q) [😎](https://github.com/RohitKumar-200/DSA/blob/main/Striver-sde-sheet/43_N_meetings_in_one_room.md) |
+| 44 | Minimum platforms required | [🤔](https://practice.geeksforgeeks.org/problems/minimum-platforms-1587115620/1#) [👀](https://youtu.be/dxVcMDI7vyI) [😎](https://github.com/RohitKumar-200/DSA/blob/main/Striver-sde-sheet/44_Minimum_platforms_required_for_railway.md) |
