@@ -57,3 +57,4 @@
 | 41 | Remove duplicates from sorted array | [🤔](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) [👀](https://youtu.be/Fm_p9lJ4Z_8) [😎](https://github.com/RohitKumar-200/DSA/blob/main/Striver-sde-sheet/41_Remove_duplicates_from_sorted_array.md) |
 | 42 | Max consecutive ones | [🤔](https://leetcode.com/problems/max-consecutive-ones/) [👀](https://youtu.be/Mo33MjjMlyA) [😎](https://github.com/RohitKumar-200/DSA/blob/main/Striver-sde-sheet/42_Max_consecutive_ones.md) |
 | Day 8 | Greedy ||
+| 43 | N meetings in one room | [🤔](https://practice.geeksforgeeks.org/problems/n-meetings-in-one-room-1587115620/1#) [👀](https://youtu.be/II6ziNnub1Q) [😎](https://github.com/RohitKumar-200/DSA/blob/main/Striver-sde-sheet/43_N_meetings_in_one_room.md) |
