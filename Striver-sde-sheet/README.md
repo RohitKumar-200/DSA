@@ -62,3 +62,4 @@
 | 45 | Job sequencing problem | [🤔](https://practice.geeksforgeeks.org/problems/job-sequencing-problem-1587115620/1#) [👀](https://youtu.be/LjPx4wQaRIs) [😎](https://github.com/RohitKumar-200/DSA/blob/main/Striver-sde-sheet/45_Job_sequencing_problem.md) |
 | 46 | Fractional knapsack problem | [🤔](https://practice.geeksforgeeks.org/problems/fractional-knapsack-1587115620/1) [👀](https://youtu.be/LjPx4wQaRIs) [😎](https://github.com/RohitKumar-200/DSA/blob/main/Striver-sde-sheet/46_Fractional_knapsack_problem.md) |
 | 47 | Greedy algo to find min no. of coins | [🤔](https://practice.geeksforgeeks.org/problems/number-of-coins1824/1) [👀](https://youtu.be/mVg9CfJvayM) [😎](https://github.com/RohitKumar-200/DSA/blob/main/Striver-sde-sheet/47_Greedy_algo_to_find_min_no_of_coins.md) |
+| Day 9 | Recursion ||
