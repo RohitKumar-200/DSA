@@ -75,8 +75,8 @@ int minCoins(int coins[], int M, int V) {
 
 ## Approach 3 (Iterative DP)
 
-Time complexity : O(M*V)  
-Space complexity : O(M*V)
+Time complexity : O(M\*V)  
+Space complexity : O(M\*V)
 
 ```cpp
 int minCoins(int coins[], int M, int V) {
