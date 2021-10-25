@@ -67,3 +67,4 @@
 | 49 | Subset II | [🤔](https://leetcode.com/problems/subsets-ii/) [👀](https://youtu.be/RIn3gOkbhQE) [😎](https://github.com/RohitKumar-200/DSA/blob/main/Striver-sde-sheet/49_Subset_II.md) |
 | 50 | Combination sum I | [🤔](https://leetcode.com/problems/combination-sum/) [👀](https://youtu.be/OyZFFqQtu98) [😎](https://github.com/RohitKumar-200/DSA/blob/main/Striver-sde-sheet/50_Combination_sum_I.md) |
 | 51 | Combination sum II | [🤔](https://leetcode.com/problems/combination-sum-ii/) [👀](https://youtu.be/G1fRTGRxXU8) [😎](https://github.com/RohitKumar-200/DSA/blob/main/Striver-sde-sheet/51_Combinatin_sum_II.md) |
+| 52 | Palindrome partitioning | [🤔](https://leetcode.com/problems/palindrome-partitioning/) [👀](https://youtu.be/WBgsABoClE0) [😎](https://github.com/RohitKumar-200/DSA/blob/main/Striver-sde-sheet/52_Palindrome_partitioning.md) |
