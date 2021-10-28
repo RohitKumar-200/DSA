@@ -70,3 +70,4 @@
 | 52 | Palindrome partitioning | [🤔](https://leetcode.com/problems/palindrome-partitioning/) [👀](https://youtu.be/WBgsABoClE0) [😎](https://github.com/RohitKumar-200/DSA/blob/main/Striver-sde-sheet/52_Palindrome_partitioning.md) |
 | 53 | Kth permutation sequence | [🤔](https://leetcode.com/problems/permutation-sequence/) [👀](https://youtu.be/wT7gcXLYoao) [😎](https://github.com/RohitKumar-200/DSA/blob/main/Striver-sde-sheet/53_Kth_Permutation_sequence.md) |
 | Day 10 | Recursion and backtracking ||
+| 54 | All permutations | [🤔](https://leetcode.com/problems/permutations/) [👀](https://youtu.be/f2ic2Rsc9pU) [😎](https://github.com/RohitKumar-200/DSA/blob/main/Striver-sde-sheet/54_All_permutations.md) |
