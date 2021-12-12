@@ -71,3 +71,4 @@
 | 53 | Kth permutation sequence | [🤔](https://leetcode.com/problems/permutation-sequence/) [👀](https://youtu.be/wT7gcXLYoao) [😎](https://github.com/RohitKumar-200/DSA/blob/main/Striver-sde-sheet/53_Kth_Permutation_sequence.md) |
 | Day 10 | Recursion and backtracking ||
 | 54 | All permutations | [🤔](https://leetcode.com/problems/permutations/) [👀](https://youtu.be/f2ic2Rsc9pU) [😎](https://github.com/RohitKumar-200/DSA/blob/main/Striver-sde-sheet/54_All_permutations.md) |
+| 55 | N Queens | [🤔](https://leetcode.com/problems/n-queens/) [👀](https://youtu.be/i05Ju7AftcM) [😎](https://github.com/RohitKumar-200/DSA/blob/main/Striver-sde-sheet/55_N_Queens.md) |
