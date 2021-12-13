@@ -74,3 +74,4 @@
 | 55 | N Queens | [🤔](https://leetcode.com/problems/n-queens/) [👀](https://youtu.be/i05Ju7AftcM) [😎](https://github.com/RohitKumar-200/DSA/blob/main/Striver-sde-sheet/55_N_Queens.md) |
 | 56 | Sudoku lover | [🤔](https://leetcode.com/problems/sudoku-solver/) [👀](https://youtu.be/FWAIf_EVUKE) [😎](https://github.com/RohitKumar-200/DSA/blob/main/Striver-sde-sheet/56_Sudoku_lover.md) |
 | 57 | M coloring problem | [🤔](https://practice.geeksforgeeks.org/problems/m-coloring-problem-1587115620/1#) [👀](https://youtu.be/wuVwUK25Rfc) [😎](https://github.com/RohitKumar-200/DSA/blob/main/Striver-sde-sheet/57_M_coloring_problem.md) |
+| 58 | Rat in a maze | [🤔](https://practice.geeksforgeeks.org/problems/rat-in-a-maze-problem/1#) [👀](https://youtu.be/bLGZhJlt4y0) [😎](https://github.com/RohitKumar-200/DSA/blob/main/Striver-sde-sheet/58_Rat_in_a_maze.md) |
