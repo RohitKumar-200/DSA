@@ -78,3 +78,4 @@
 | 59 | Word break (print all ways) | [🤔](https://practice.geeksforgeeks.org/problems/word-break-part-23249/1#) [👀]() [😎](https://github.com/RohitKumar-200/DSA/blob/main/Striver-sde-sheet/59_Word_break_print_all_ways.md) |
 | Day 11 | Binary Search ||
 | 60 | Nth root of an integer | [🤔](https://practice.geeksforgeeks.org/problems/find-nth-root-of-m5843/1) [👀](https://youtu.be/WjpswYrS2nY) [😎](https://github.com/RohitKumar-200/DSA/blob/main/Striver-sde-sheet/60_Nth_root_of_an_integer.md) |
+| 61 | Matrix median | [🤔](https://www.interviewbit.com/problems/matrix-median/) [👀](https://youtu.be/63fPPOdIr2c) [😎](https://github.com/RohitKumar-200/DSA/blob/main/Striver-sde-sheet/61_matrix_median.md) |
