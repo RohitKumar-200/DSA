@@ -15,7 +15,25 @@ Find an return the overall **median** of the matrix `A`.
 - 1 <= A[i] <= 10^9
 - N\*M is odd
 
-## Solution
+## Approach 1 (Binary search + Extra space)
+
+Time comoplexity : O(n\*m\*log(n\*m))  
+Space complexity : O(n\*m)
+
+```cpp
+findMedian(vector<vector<int> > &A) {
+    int n = A.size(), m = A[0].size();
+    vector<int> v;
+    for(auto it1:A) {
+        for(auto it2:it1)
+            v.push_back(it2);
+    }
+    sort(v.begin(), v.end());
+    return v[(n*m)/2];
+}
+```
+
+## Approach 2 (Binary search)
 
 Time complexity : O(n\*log(m) \* log(INT_MAX))  
 Space complexity : O(1)
