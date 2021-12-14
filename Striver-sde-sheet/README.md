@@ -79,3 +79,4 @@
 | Day 11 | Binary Search ||
 | 60 | Nth root of an integer | [🤔](https://practice.geeksforgeeks.org/problems/find-nth-root-of-m5843/1) [👀](https://youtu.be/WjpswYrS2nY) [😎](https://github.com/RohitKumar-200/DSA/blob/main/Striver-sde-sheet/60_Nth_root_of_an_integer.md) |
 | 61 | Matrix median | [🤔](https://www.interviewbit.com/problems/matrix-median/) [👀](https://youtu.be/63fPPOdIr2c) [😎](https://github.com/RohitKumar-200/DSA/blob/main/Striver-sde-sheet/61_matrix_median.md) |
+| 62 | Single element in a sorted array | [🤔](https://leetcode.com/problems/single-element-in-a-sorted-array/) [👀](https://youtu.be/PzszoiY5XMQ) [😎](https://github.com/RohitKumar-200/DSA/blob/main/Striver-sde-sheet/62_Single_element_in_a_sorted_array.md) |
