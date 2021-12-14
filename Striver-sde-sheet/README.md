@@ -76,3 +76,4 @@
 | 57 | M coloring problem | [🤔](https://practice.geeksforgeeks.org/problems/m-coloring-problem-1587115620/1#) [👀](https://youtu.be/wuVwUK25Rfc) [😎](https://github.com/RohitKumar-200/DSA/blob/main/Striver-sde-sheet/57_M_coloring_problem.md) |
 | 58 | Rat in a maze | [🤔](https://practice.geeksforgeeks.org/problems/rat-in-a-maze-problem/1#) [👀](https://youtu.be/bLGZhJlt4y0) [😎](https://github.com/RohitKumar-200/DSA/blob/main/Striver-sde-sheet/58_Rat_in_a_maze.md) |
 | 59 | Word break (print all ways) | [🤔](https://practice.geeksforgeeks.org/problems/word-break-part-23249/1#) [👀]() [😎](https://github.com/RohitKumar-200/DSA/blob/main/Striver-sde-sheet/59_Word_break_print_all_ways.md) |
+| Day 11 | Binary Search ||
