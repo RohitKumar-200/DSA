@@ -28,7 +28,7 @@ double findMedianSortedArrays(vector<int>& nums1, vector<int>& nums2) {
 ## Approach 2
 
 Time complexity : O(M+N)  
-Space complexity : O(M+N)
+Space complexity : O(1)
 
 ```cpp
 double findMedianSortedArrays(vector<int>& nums1, vector<int>& nums2) {
