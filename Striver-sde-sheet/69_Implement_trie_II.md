@@ -19,8 +19,8 @@
 
 ## Solution
 
-Time complexity : O(N)  
-Space complexity : O(N\*M) (Word length \* No. of words)
+Time complexity : O(N\*M) (Word length \* No. of words)  
+Space complexity : O(N\*M)
 
 ```cpp
 class Trie {
