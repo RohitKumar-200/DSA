@@ -87,3 +87,4 @@
 | 67 | Aggressive cows | [🤔](https://www.spoj.com/problems/AGGRCOW/) [👀](https://youtu.be/wSOfYesTBRk) [😎](https://github.com/RohitKumar-200/DSA/blob/main/Striver-sde-sheet/67_Aggressive_cows.md) |
 | Day 12 | Tries (Prefix Tree) ||
 | 68 | Implement Trie (Prefix tree) | [🤔](https://leetcode.com/problems/implement-trie-prefix-tree/) [👀](https://youtu.be/dBGUmUQhjaM) [😎](https://github.com/RohitKumar-200/DSA/blob/main/Striver-sde-sheet/68_Implement_trie.md) |
+| 69 | Implement Trie II | [🤔](https://www.codingninjas.com/codestudio/problems/implement-trie_1387095) [👀](https://youtu.be/K5pcpkEMCN0) [😎](https://github.com/RohitKumar-200/DSA/blob/main/Striver-sde-sheet/69_Implement_trie_II.md) |
