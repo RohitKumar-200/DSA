@@ -86,3 +86,4 @@
 | 66 | Allocate minimum no of pages | [🤔](https://www.interviewbit.com/problems/allocate-books/) [👀](https://youtu.be/gYmWHvRHu-s) [😎](https://github.com/RohitKumar-200/DSA/blob/main/Striver-sde-sheet/66_Allocate_minimum_no_of_pages.md) |
 | 67 | Aggressive cows | [🤔](https://www.spoj.com/problems/AGGRCOW/) [👀](https://youtu.be/wSOfYesTBRk) [😎](https://github.com/RohitKumar-200/DSA/blob/main/Striver-sde-sheet/67_Aggressive_cows.md) |
 | Day 12 | Tries (Prefix Tree) ||
+| 68 | Implement Trie (Prefix tree) | [🤔](https://leetcode.com/problems/implement-trie-prefix-tree/) [👀](https://youtu.be/dBGUmUQhjaM) [😎](https://github.com/RohitKumar-200/DSA/blob/main/Striver-sde-sheet/68_Implement_trie.md) |
