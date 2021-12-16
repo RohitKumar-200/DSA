@@ -85,4 +85,4 @@
 | 65 | Kth element of two sorted arrays | [🤔](https://practice.geeksforgeeks.org/problems/k-th-element-of-two-sorted-array1317/1#) [👀](https://youtu.be/nv7F4PiLUzo) [😎](https://github.com/RohitKumar-200/DSA/blob/main/Striver-sde-sheet/65_Kth_element_of_two_sorted_arrays.md) |
 | 66 | Allocate minimum no of pages | [🤔](https://www.interviewbit.com/problems/allocate-books/) [👀](https://youtu.be/gYmWHvRHu-s) [😎](https://github.com/RohitKumar-200/DSA/blob/main/Striver-sde-sheet/66_Allocate_minimum_no_of_pages.md) |
 | 67 | Aggressive cows | [🤔](https://www.spoj.com/problems/AGGRCOW/) [👀](https://youtu.be/wSOfYesTBRk) [😎](https://github.com/RohitKumar-200/DSA/blob/main/Striver-sde-sheet/67_Aggressive_cows.md) |
-| Day 12 | Tries ||
+| Day 12 | Tries (Prefix Tree) ||
