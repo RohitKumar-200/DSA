@@ -93,3 +93,4 @@
 | 72 | Max Xor of two numbers in an array | [🤔](https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/) [👀](https://youtu.be/EIhAwfHubE8) [😎](https://github.com/RohitKumar-200/DSA/blob/main/Striver-sde-sheet/72_Max_xor_of_two_numbers_in_an_array.md) |
 | 73 | Max Xor with an element from array | [🤔](https://leetcode.com/problems/maximum-xor-with-an-element-from-array/) [👀](https://youtu.be/Q8LhG9Pi5KM) [😎](https://github.com/RohitKumar-200/DSA/blob/main/Striver-sde-sheet/73_Max_xor_with_an_element_from_array.md) |
 | Day 13 | Stack and Queue ||
+| 74 | Implement stack using an array | [👀](https://youtu.be/GYptUgnIM_I) [😎](https://github.com/RohitKumar-200/DSA/blob/main/Striver-sde-sheet/74_Implement_stack_using_array.md) |
