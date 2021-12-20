@@ -94,3 +94,4 @@
 | 73 | Max Xor with an element from array | [🤔](https://leetcode.com/problems/maximum-xor-with-an-element-from-array/) [👀](https://youtu.be/Q8LhG9Pi5KM) [😎](https://github.com/RohitKumar-200/DSA/blob/main/Striver-sde-sheet/73_Max_xor_with_an_element_from_array.md) |
 | Day 13 | Stack and Queue ||
 | 74 | Implement stack using an array | [👀](https://youtu.be/GYptUgnIM_I) [😎](https://github.com/RohitKumar-200/DSA/blob/main/Striver-sde-sheet/74_Implement_stack_using_array.md) |
+| 75 | Implement queue using array | [👀](https://youtu.be/M6GnoUDpqEE) [😎](https://github.com/RohitKumar-200/DSA/blob/main/Striver-sde-sheet/75_Implement_queue_using_array.md) |
