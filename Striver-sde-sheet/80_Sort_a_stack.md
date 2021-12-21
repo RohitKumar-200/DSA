@@ -1,16 +1,17 @@
 # Sort a Stack
 
+## Problem statement
+
+Given a stack, the task is to sort it such that the top of the stack has the greatest element.
+
 ## Approach 1 (Recursion)
 
 Time complexity : O(N^2)  
 Auxiliary space : O(N)
 
 ```cpp
-#include <bits/stdc++.h>
-using namespace std;
-
 void insertInStack(stack<int> &st, int x) {
-    if(st.empty() || st.top() >= x) {
+    if(st.empty() || st.top() <= x) {
         st.push(x);
         return;
     }
@@ -19,7 +20,6 @@ void insertInStack(stack<int> &st, int x) {
     insertInStack(st, x);
     st.push(top);
 }
-
 void sortStack(stack<int> &st) {
     if(st.empty()) return;
     int top = st.top();
@@ -27,47 +27,22 @@ void sortStack(stack<int> &st) {
     sortStack(st);
     insertInStack(st, top);
 }
-
-void printStack(stack<int> st) {
-    while(!st.empty()) {
-        cout<<st.top()<<' ';
-        st.pop();
-    }
-    cout<<endl;
-}
-
-int main()
-{
-    stack<int> st;
-    st.push(3);
-    st.push(1);
-    st.push(7);
-    st.push(9);
-    st.push(5);
-    st.push(0);
-    cout<<"Stack before sorting"<<endl;
-    printStack(st);
-    sortStack(st);
-    cout<<"Stack after sorting"<<endl;
-    printStack(st);
-    return 0;
+void SortedStack :: sort() {
+   sortStack(s);
 }
 ```
 
-## Approach 2 (Using 3 stacks)
+## Approach 2 (Using 2 extra stacks)
 
 Time complexity : O(N^2)  
 Space complexity : O(N)
 
 ```cpp
-#include <bits/stdc++.h>
-using namespace std;
-
-stack<int> sortStack(stack<int> st) {
+void SortedStack :: sort() {
     stack<int> sRes, sTemp;
-    while(!st.empty()) {
-        int x = st.top();
-        while(!sRes.empty() && sRes.top() < x) {
+    while(!s.empty()) {
+        int x = s.top();
+        while(!sRes.empty() && sRes.top() > x) {
             sTemp.push(sRes.top());
             sRes.pop();
         }
@@ -76,33 +51,8 @@ stack<int> sortStack(stack<int> st) {
             sRes.push(sTemp.top());
             sTemp.pop();
         }
-        st.pop();
+        s.pop();
     }
-    return sRes;
-}
-
-void printStack(stack<int> st) {
-    while(!st.empty()) {
-        cout<<st.top()<<' ';
-        st.pop();
-    }
-    cout<<endl;
-}
-
-int main()
-{
-    stack<int> st;
-    st.push(3);
-    st.push(1);
-    st.push(7);
-    st.push(9);
-    st.push(5);
-    st.push(0);
-    cout<<"Stack before sorting"<<endl;
-    printStack(st);
-    st = sortStack(st);
-    cout<<"Stack after sorting"<<endl;
-    printStack(st);
-    return 0;
+    s = sRes;
 }
 ```
