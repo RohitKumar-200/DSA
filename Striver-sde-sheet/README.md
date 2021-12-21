@@ -99,3 +99,4 @@
 | 77 | Implement queue using stack | [🤔](https://leetcode.com/problems/implement-queue-using-stacks/) [👀](https://youtu.be/3Et9MrMc02A) [😎](https://github.com/RohitKumar-200/DSA/blob/main/Striver-sde-sheet/77_Implement_queue_using_stack.md) |
 | 78 | Check for balanced parentheses | [🤔](https://leetcode.com/problems/valid-parentheses/) [👀](https://youtu.be/wkDfsKijrZ8) [😎](https://github.com/RohitKumar-200/DSA/blob/main/Striver-sde-sheet/78_Check_for_balanced_parentheses.md) |
 | 79 | Next greater element | [🤔](https://practice.geeksforgeeks.org/problems/next-larger-element-1587115620/1#) [👀](https://youtu.be/Du881K7Jtk8) [😎](https://github.com/RohitKumar-200/DSA/blob/main/Striver-sde-sheet/79_Next_greater_element.md) |
+| 80 | Sort a stack | [👀](https://youtu.be/MOGBRkkOhkY) [😎](https://github.com/RohitKumar-200/DSA/blob/main/Striver-sde-sheet/80_Sort_a_stack.md) |
