@@ -97,3 +97,4 @@
 | 75 | Implement queue using array | [👀](https://youtu.be/M6GnoUDpqEE) [😎](https://github.com/RohitKumar-200/DSA/blob/main/Striver-sde-sheet/75_Implement_queue_using_array.md) |
 | 76 | Implement stack using queue | [🤔](https://leetcode.com/problems/implement-stack-using-queues/) [👀](https://youtu.be/jDZQKzEtbYQ) [😎](https://github.com/RohitKumar-200/DSA/blob/main/Striver-sde-sheet/76_Implement_stack_using_queue.md) |
 | 77 | Implement queue using stack | [🤔](https://leetcode.com/problems/implement-queue-using-stacks/) [👀](https://youtu.be/3Et9MrMc02A) [😎](https://github.com/RohitKumar-200/DSA/blob/main/Striver-sde-sheet/77_Implement_queue_using_stack.md) |
+| 78 | Check for balanced parentheses | [🤔](https://leetcode.com/problems/valid-parentheses/) [👀](https://youtu.be/wkDfsKijrZ8) [😎](https://github.com/RohitKumar-200/DSA/blob/main/Striver-sde-sheet/78_Check_for_balanced_parentheses.md) |
