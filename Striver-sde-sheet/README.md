@@ -101,3 +101,4 @@
 | 79 | Next greater element | [🤔](https://practice.geeksforgeeks.org/problems/next-larger-element-1587115620/1#) [👀](https://youtu.be/Du881K7Jtk8) [😎](https://github.com/RohitKumar-200/DSA/blob/main/Striver-sde-sheet/79_Next_greater_element.md) |
 | 80 | Sort a stack | [🤔](https://practice.geeksforgeeks.org/problems/sort-a-stack/1) [👀](https://youtu.be/MOGBRkkOhkY) [😎](https://github.com/RohitKumar-200/DSA/blob/main/Striver-sde-sheet/80_Sort_a_stack.md) |
 | Day 14 | Stack and Queue [Continued] ||
+| 81 | Next smaller element | [🤔](https://www.interviewbit.com/problems/nearest-smaller-element/) [😎](https://github.com/RohitKumar-200/DSA/blob/main/Striver-sde-sheet/81_Next_smaller_element.md) |
