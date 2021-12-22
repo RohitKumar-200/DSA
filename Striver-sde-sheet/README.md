@@ -102,3 +102,4 @@
 | 80 | Sort a stack | [🤔](https://practice.geeksforgeeks.org/problems/sort-a-stack/1) [👀](https://youtu.be/MOGBRkkOhkY) [😎](https://github.com/RohitKumar-200/DSA/blob/main/Striver-sde-sheet/80_Sort_a_stack.md) |
 | Day 14 | Stack and Queue [Continued] ||
 | 81 | Next smaller element | [🤔](https://www.interviewbit.com/problems/nearest-smaller-element/) [😎](https://github.com/RohitKumar-200/DSA/blob/main/Striver-sde-sheet/81_Next_smaller_element.md) |
+| 82 | LRU cache | [🤔](https://leetcode.com/problems/lru-cache/) [👀](https://youtu.be/xDEuM5qa0zg) [😎](https://github.com/RohitKumar-200/DSA/blob/main/Striver-sde-sheet/82_LRU_cache.md) |
