@@ -11,14 +11,13 @@ Space complexity : O(1)
 
 ```cpp
 int *findTwoElement(int *arr, int n) {
-    int missingNum, duplicateNum;
+    int missingNum=n, duplicateNum;
     sort(arr, arr+n);
-    for(int i=0; i<n; i++) {
-        if(arr[i] != i+1) {
-            missingNum = i+1;
-            duplicateNum = arr[i];
-            break;
-        }
+    for(int i=0, j=1, f=1; i<n; i++, j++) {
+        if(i > 0 && arr[i] == arr[i-1])
+            duplicateNum = arr[i], j--;
+        else if(f && arr[i] != j)
+            missingNum = j, f = 0;
     }
     int *res = new int[2];
     res[0] = duplicateNum;
