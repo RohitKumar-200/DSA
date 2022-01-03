@@ -105,3 +105,4 @@
 | 82 | LRU cache | [🤔](https://leetcode.com/problems/lru-cache/) [👀](https://youtu.be/xDEuM5qa0zg) [😎](https://github.com/RohitKumar-200/DSA/blob/main/Striver-sde-sheet/82_LRU_cache.md) |
 | 83 | LFU cache | [🤔](https://leetcode.com/problems/lfu-cache/) [👀](https://youtu.be/0PSB9y8ehbk) [😎](https://github.com/RohitKumar-200/DSA/blob/main/Striver-sde-sheet/83_LFU_cache.md) |
 | 84 | Largest rectangle in histogram | [🤔](https://leetcode.com/problems/largest-rectangle-in-histogram/) [👀](https://youtu.be/X0X6G-eWgQ8) [😎](https://github.com/RohitKumar-200/DSA/blob/main/Striver-sde-sheet/84_Largest_rectangle_in_histogram.md) |
+| 85 | Sliding window maximum | [🤔](https://leetcode.com/problems/sliding-window-maximum/) [👀](https://youtu.be/CZQGRp93K4k) [😎](https://github.com/RohitKumar-200/DSA/blob/main/Striver-sde-sheet/85_Sliding_window_maximum.md) |
