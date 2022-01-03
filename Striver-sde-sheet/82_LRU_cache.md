@@ -22,66 +22,62 @@ class LRUCache {
     struct Node {
         int key;
         int val;
-        Node* left;
-        Node* right;
+        Node* next = NULL;
+        Node* prev = NULL;
         Node(int _key, int _val) {
             key = _key;
             val = _val;
         }
     };
-
+    Node* head;
+    Node* tail;
     int cap;
-    Node* head = new Node(-1, -1);
-    Node* tail = new Node(-1, -1);
     unordered_map<int, Node*> mp;
-
-    void touch(Node* temp) {
-        temp -> left -> right = temp -> right;
-        temp -> right -> left = temp -> left;
-        temp -> left = head -> left;
-        temp -> right = head;
-        head -> left -> right = temp;
-        head -> left = temp;
+    void touch(Node* node) {
+        node->prev->next = node->next;
+        node->next->prev = node->prev;
+        node->next = head->next;
+        node->prev = head;
+        head->next->prev = node;
+        head->next = node;
     }
 public:
     LRUCache(int capacity) {
+        head = new Node(-1, -1);
+        tail = new Node(-1, -1);
+        head->next = tail;
+        tail->prev = head;
         cap = capacity;
-        head -> left = tail;
-        tail -> right = head;
     }
 
     int get(int key) {
         if(mp.find(key) != mp.end()) {
-            Node* temp = mp[key];
-            touch(temp);
-            return temp -> val;
+            touch(mp[key]);
+            return mp[key] -> val;
         }
         return -1;
     }
 
     void put(int key, int value) {
         if(mp.find(key) != mp.end()) {
-            Node* temp = mp[key];
-            temp -> val = value;
-            touch(temp);
+            mp[key] -> val = value;
+            touch(mp[key]);
             return;
         }
-
         if(cap == 0) {
-            Node* temp = tail -> right;
-            temp -> right -> left = tail;
-            tail -> right = temp -> right;
-            mp.erase(temp -> key);
+            Node* temp = tail->prev;
+            tail->prev = temp->prev;
+            tail->prev->next = tail;
+            mp.erase(temp->key);
             delete temp;
             cap++;
         }
-
         Node* temp = new Node(key, value);
-        temp -> left = head -> left;
-        temp -> right = head;
-        head -> left -> right = temp;
-        head -> left = temp;
-        mp[key] = head -> left;
+        temp->next = head->next;
+        temp->prev = head;
+        head->next->prev = temp;
+        head->next = temp;
+        mp[key] = temp;
         cap--;
     }
 };
