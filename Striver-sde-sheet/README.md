@@ -107,3 +107,4 @@
 | 84 | Largest rectangle in histogram | [🤔](https://leetcode.com/problems/largest-rectangle-in-histogram/) [👀](https://youtu.be/X0X6G-eWgQ8) [😎](https://github.com/RohitKumar-200/DSA/blob/main/Striver-sde-sheet/84_Largest_rectangle_in_histogram.md) |
 | 85 | Sliding window maximum | [🤔](https://leetcode.com/problems/sliding-window-maximum/) [👀](https://youtu.be/CZQGRp93K4k) [😎](https://github.com/RohitKumar-200/DSA/blob/main/Striver-sde-sheet/85_Sliding_window_maximum.md) |
 | 86 | Implement min stack | [🤔](https://leetcode.com/problems/min-stack/) [👀](https://youtu.be/V09NfaGf2ao) [😎](https://github.com/RohitKumar-200/DSA/blob/main/Striver-sde-sheet/86_Implement_min_stack.md) |
+| 87 | Rotten oranges | [🤔](https://leetcode.com/problems/rotting-oranges/) [👀](https://youtu.be/pUAPcVlHLKA) [😎](https://github.com/RohitKumar-200/DSA/blob/main/Striver-sde-sheet/87_Rotten_oranges.md) |
