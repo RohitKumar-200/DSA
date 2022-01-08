@@ -113,3 +113,4 @@
 | Day 15 | String ||
 | 90 | Reverse words in a string | [🤔](https://leetcode.com/problems/reverse-words-in-a-string/) [😎](https://github.com/RohitKumar-200/DSA/blob/main/Striver-sde-sheet/90_Reverse_words_in_a_string.md) |
 | 91 | Longest palindromic substring | [🤔](https://leetcode.com/problems/longest-palindromic-substring/) [😎](https://github.com/RohitKumar-200/DSA/blob/main/Striver-sde-sheet/91_Longest_palindromic_substring.md) |
+| 92 | Roman to integer | [🤔](https://leetcode.com/problems/roman-to-integer/) [😎](https://github.com/RohitKumar-200/DSA/blob/main/Striver-sde-sheet/92_Roman_to_Integer.md) |
