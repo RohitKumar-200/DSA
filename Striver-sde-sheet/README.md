@@ -111,3 +111,4 @@
 | 88 | Stock span problem | [🤔](https://leetcode.com/problems/online-stock-span/) [😎](https://github.com/RohitKumar-200/DSA/blob/main/Striver-sde-sheet/88_Stock_span_problem.md) |
 | 89 | Max of min for every window size | [🤔](https://practice.geeksforgeeks.org/problems/maximum-of-minimum-for-every-window-size3453/1) [😎](https://github.com/RohitKumar-200/DSA/blob/main/Striver-sde-sheet/89_Max_of_min_for_every_window_size.md) |
 | Day 15 | String ||
+| 90 | Reverse words in a string | [🤔](https://leetcode.com/problems/reverse-words-in-a-string/) [😎](https://github.com/RohitKumar-200/DSA/blob/main/Striver-sde-sheet/90_Reverse_words_in_a_string.md) |
