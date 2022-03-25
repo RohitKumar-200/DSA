@@ -8,6 +8,9 @@ Find how many minimum characters are needed to be inserted to make the string a 
 
 ## Solution (Using LPS Array)
 
+Time complexity : O(N)  
+Space complexity : O(N)
+
 ```cpp
 vector<int> lps(string s) {
     int n = s.length();
