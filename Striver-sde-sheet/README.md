@@ -120,3 +120,4 @@
 | Day 16 | String - II ||
 | 96 | Z Algorithm | [🤔](https://leetcode.com/problems/implement-strstr/) [😎](https://github.com/RohitKumar-200/DSA/blob/main/Striver-sde-sheet/96_Z_Algorithm.md) |
 | 97 | KMP Algorithm | [🤔](https://leetcode.com/problems/implement-strstr/) [😎](https://github.com/RohitKumar-200/DSA/blob/main/Striver-sde-sheet/97_KMP_algorithm.md) |
+| 98 | Min Insertions in front for palindrome | [🤔](https://www.interviewbit.com/problems/minimum-characters-required-to-make-a-string-palindromic/) [😎](https://github.com/RohitKumar-200/DSA/blob/main/Striver-sde-sheet/98_Min_Insertions_in_front_for_palindrome.md) |
