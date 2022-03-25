@@ -117,5 +117,6 @@
 | 93 | String to integer | [🤔](https://leetcode.com/problems/string-to-integer-atoi/) [😎](https://github.com/RohitKumar-200/DSA/blob/main/Striver-sde-sheet/93_String_to_integer.md) |
 | 94 | Longest common prefix | [🤔](https://leetcode.com/problems/longest-common-prefix/) [😎](https://github.com/RohitKumar-200/DSA/blob/main/Striver-sde-sheet/94_Longest_common_prefix.md) |
 | 95 | Rabin Karp | [🤔](https://leetcode.com/problems/repeated-string-match/) [😎](https://github.com/RohitKumar-200/DSA/blob/main/Striver-sde-sheet/95_Rabin_karp.md) |
+| Day 16 | String - II ||
 | 96 | Z Algorithm | [🤔](https://leetcode.com/problems/implement-strstr/) [😎](https://github.com/RohitKumar-200/DSA/blob/main/Striver-sde-sheet/96_Z_Algorithm.md) |
 | 97 | KMP Algorithm | [🤔](https://leetcode.com/problems/implement-strstr/) [😎](https://github.com/RohitKumar-200/DSA/blob/main/Striver-sde-sheet/97_KMP_algorithm.md) |
