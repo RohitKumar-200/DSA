@@ -126,3 +126,4 @@
 | 101 | Compare version numbers | [🤔](https://leetcode.com/problems/compare-version-numbers/) [😎](https://github.com/RohitKumar-200/DSA/blob/main/Striver-sde-sheet/101_Compare_version_numbers.md) |
 | Day 17 | Binary Tree ||
 | 102 | Inorder traversal | [🤔](https://leetcode.com/problems/binary-tree-inorder-traversal/) [😎](https://github.com/RohitKumar-200/DSA/blob/main/Striver-sde-sheet/102_Inorder_traversal.md) |
+| 103 | Preorder traversal | [🤔](https://leetcode.com/problems/binary-tree-preorder-traversal/) [😎](https://github.com/RohitKumar-200/DSA/blob/main/Striver-sde-sheet/103_Preorder_traversal.md) |
