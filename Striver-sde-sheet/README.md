@@ -128,3 +128,4 @@
 | 102 | Inorder traversal | [🤔](https://leetcode.com/problems/binary-tree-inorder-traversal/) [😎](https://github.com/RohitKumar-200/DSA/blob/main/Striver-sde-sheet/102_Inorder_traversal.md) |
 | 103 | Preorder traversal | [🤔](https://leetcode.com/problems/binary-tree-preorder-traversal/) [😎](https://github.com/RohitKumar-200/DSA/blob/main/Striver-sde-sheet/103_Preorder_traversal.md) |
 | 104 | Postorder traversal | [🤔](https://leetcode.com/problems/binary-tree-postorder-traversal/) [😎](https://github.com/RohitKumar-200/DSA/blob/main/Striver-sde-sheet/104_Postorder_traversal.md) |
+| 105 | Morris Inorder traversal | [🤔](https://leetcode.com/problems/binary-tree-inorder-traversal/) [👀](https://youtu.be/80Zug6D1_r4) [😎](https://github.com/RohitKumar-200/DSA/blob/main/Striver-sde-sheet/105_Morris_inorder_traversal.md) |
