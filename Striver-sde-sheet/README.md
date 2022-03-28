@@ -125,8 +125,8 @@
 | 100 | Count and Say | [🤔](https://leetcode.com/problems/count-and-say/) [😎](https://github.com/RohitKumar-200/DSA/blob/main/Striver-sde-sheet/100_Count_and_say.md) |
 | 101 | Compare version numbers | [🤔](https://leetcode.com/problems/compare-version-numbers/) [😎](https://github.com/RohitKumar-200/DSA/blob/main/Striver-sde-sheet/101_Compare_version_numbers.md) |
 | Day 17 | Binary Tree ||
-| 102 | Inorder traversal | [🤔](https://leetcode.com/problems/binary-tree-inorder-traversal/) [😎](https://github.com/RohitKumar-200/DSA/blob/main/Striver-sde-sheet/102_Inorder_traversal.md) |
-| 103 | Preorder traversal | [🤔](https://leetcode.com/problems/binary-tree-preorder-traversal/) [😎](https://github.com/RohitKumar-200/DSA/blob/main/Striver-sde-sheet/103_Preorder_traversal.md) |
-| 104 | Postorder traversal | [🤔](https://leetcode.com/problems/binary-tree-postorder-traversal/) [😎](https://github.com/RohitKumar-200/DSA/blob/main/Striver-sde-sheet/104_Postorder_traversal.md) |
+| 102 | Inorder traversal | [🤔](https://leetcode.com/problems/binary-tree-inorder-traversal/) [👀](https://youtu.be/Z_NEgBgbRVI) [👀](https://youtu.be/lxTGsVXjwvM) [😎](https://github.com/RohitKumar-200/DSA/blob/main/Striver-sde-sheet/102_Inorder_traversal.md) |
+| 103 | Preorder traversal | [🤔](https://leetcode.com/problems/binary-tree-preorder-traversal/) [👀](https://youtu.be/RlUu72JrOCQ) [👀](https://youtu.be/Bfqd8BsPVuw) [😎](https://github.com/RohitKumar-200/DSA/blob/main/Striver-sde-sheet/103_Preorder_traversal.md) |
+| 104 | Postorder traversal | [🤔](https://leetcode.com/problems/binary-tree-postorder-traversal/) [👀](https://youtu.be/COQOU6klsBg) [👀](https://youtu.be/2YBhNLodD8Q) [😎](https://github.com/RohitKumar-200/DSA/blob/main/Striver-sde-sheet/104_Postorder_traversal.md) |
 | 105 | Morris Inorder traversal | [🤔](https://leetcode.com/problems/binary-tree-inorder-traversal/) [👀](https://youtu.be/80Zug6D1_r4) [😎](https://github.com/RohitKumar-200/DSA/blob/main/Striver-sde-sheet/105_Morris_inorder_traversal.md) |
 | 106 | Morris Preorder traversal | [🤔](https://leetcode.com/problems/binary-tree-preorder-traversal/) [👀](https://youtu.be/80Zug6D1_r4) [😎](https://github.com/RohitKumar-200/DSA/blob/main/Striver-sde-sheet/106_Morris_preorder_traversal.md) |
