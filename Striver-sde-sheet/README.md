@@ -138,3 +138,4 @@
 | 112 | Path to given node | [🤔](https://www.interviewbit.com/problems/path-to-given-node/) [👀](https://youtu.be/fmflMqVOC7k) [😎](https://github.com/RohitKumar-200/DSA/blob/main/Striver-sde-sheet/112_Path_to_given_node.md) |
 | 113 | Max width of a binary tree | [🤔](https://leetcode.com/problems/maximum-width-of-binary-tree/) [👀](https://youtu.be/ZbybYvcVLks) [😎](https://github.com/RohitKumar-200/DSA/blob/main/Striver-sde-sheet/113_Max_width_of_a_binary_tree.md) |
 | Day 18 | Binary Tree part-II ||
+| 114 | Level order traversal in binary tree | [🤔](https://leetcode.com/problems/binary-tree-level-order-traversal/) [👀](https://youtu.be/EoAsWbO7sqg) [😎](https://github.com/RohitKumar-200/DSA/blob/main/Striver-sde-sheet/114_Level_order_traversal_in_binary_tree.md) |
