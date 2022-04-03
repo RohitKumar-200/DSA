@@ -139,3 +139,4 @@
 | 113 | Max width of a binary tree | [🤔](https://leetcode.com/problems/maximum-width-of-binary-tree/) [👀](https://youtu.be/ZbybYvcVLks) [😎](https://github.com/RohitKumar-200/DSA/blob/main/Striver-sde-sheet/113_Max_width_of_a_binary_tree.md) |
 | Day 18 | Binary Tree part-II ||
 | 114 | Level order traversal in binary tree | [🤔](https://leetcode.com/problems/binary-tree-level-order-traversal/) [👀](https://youtu.be/EoAsWbO7sqg) [😎](https://github.com/RohitKumar-200/DSA/blob/main/Striver-sde-sheet/114_Level_order_traversal_in_binary_tree.md) |
+| 115 | Depth of binary tree | [🤔](https://leetcode.com/problems/maximum-depth-of-binary-tree/) [👀](https://youtu.be/eD3tmO66aBA) [😎](https://github.com/RohitKumar-200/DSA/blob/main/Striver-sde-sheet/115_Depth_of_binary_tree.md) |
