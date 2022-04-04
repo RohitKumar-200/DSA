@@ -142,3 +142,4 @@
 | 115 | Depth of binary tree | [🤔](https://leetcode.com/problems/maximum-depth-of-binary-tree/) [👀](https://youtu.be/eD3tmO66aBA) [😎](https://github.com/RohitKumar-200/DSA/blob/main/Striver-sde-sheet/115_Depth_of_binary_tree.md) |
 | 116 | Diameter of binary tree | [🤔](https://leetcode.com/problems/diameter-of-binary-tree/) [👀](https://youtu.be/Rezetez59Nk) [😎](https://github.com/RohitKumar-200/DSA/blob/main/Striver-sde-sheet/116_Diameter_of_binary_tree.md) |
 | 117 | Balanced binary tree | [🤔](https://leetcode.com/problems/balanced-binary-tree/) [👀](https://youtu.be/Yt50Jfbd8Po) [😎](https://github.com/RohitKumar-200/DSA/blob/main/Striver-sde-sheet/117_Balanced_binary_tree.md) |
+| 118 | LCA in binary tree | [🤔](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) [👀](https://youtu.be/_-QHfMDde90) [😎](https://github.com/RohitKumar-200/DSA/blob/main/Striver-sde-sheet/118_LCA_in_binary_tree.md) |
