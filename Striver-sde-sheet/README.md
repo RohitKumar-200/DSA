@@ -147,3 +147,4 @@
 | 120 | Zig zag traversal of binary tree | [🤔](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) [👀](https://youtu.be/3OXWEdlIGl4) [😎](https://github.com/RohitKumar-200/DSA/blob/main/Striver-sde-sheet/120_Zig_zag_traversal_of_binary_tree.md) |
 | 121 | Boundary traversal of binary tree | [🤔](https://practice.geeksforgeeks.org/problems/boundary-traversal-of-binary-tree/1/#) [👀](https://youtu.be/0ca1nvR0be4) [😎](https://github.com/RohitKumar-200/DSA/blob/main/Striver-sde-sheet/121_Boundary_traversal_of_binary_tree.md) |
 | Day 19 | Binary Tree part-III ||
+| 122 | Max path sum | [🤔](https://leetcode.com/problems/binary-tree-maximum-path-sum/) [👀](https://youtu.be/WszrfSwMz58) [😎](https://github.com/RohitKumar-200/DSA/blob/main/Striver-sde-sheet/122_Max_path_sum.md) |
