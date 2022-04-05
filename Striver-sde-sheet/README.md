@@ -149,3 +149,4 @@
 | Day 19 | Binary Tree part-III ||
 | 122 | Max path sum | [🤔](https://leetcode.com/problems/binary-tree-maximum-path-sum/) [👀](https://youtu.be/WszrfSwMz58) [😎](https://github.com/RohitKumar-200/DSA/blob/main/Striver-sde-sheet/122_Max_path_sum.md) |
 | 123 | Binary tree from inorder and preorder | [🤔](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) [👀](https://youtu.be/aZNaLrVebKQ) [😎](https://github.com/RohitKumar-200/DSA/blob/main/Striver-sde-sheet/123_Binary_tree_from_inorder_and_preorder.md) |
+| 124 | Binary tree from inorder and postorder | [🤔](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/) [👀](https://youtu.be/LgLRTaEMRVc) [😎](https://github.com/RohitKumar-200/DSA/blob/main/Striver-sde-sheet/124_Binary_tree_from_inorder_and_postorder.md) |
