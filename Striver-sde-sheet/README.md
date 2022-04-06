@@ -157,3 +157,4 @@
 | Day 20 | Binary Search Tree ||
 | 129 | Populate next right pointers of tree | [🤔](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/) [😎](https://github.com/RohitKumar-200/DSA/blob/main/Striver-sde-sheet/129_Populate_next_right_pointers_of_tree.md) |
 | 130 | Search in a binary search tree | [🤔](https://leetcode.com/problems/search-in-a-binary-search-tree/) [👀](https://youtu.be/KcNt6v_56cc) [😎](https://github.com/RohitKumar-200/DSA/blob/main/Striver-sde-sheet/130_Search_in_a_binary_search_tree.md) |
+| 131 | Convert sorted array to BST | [🤔](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) [😎](https://github.com/RohitKumar-200/DSA/blob/main/Striver-sde-sheet/131_Convert_sorted_array_to_BST.md) |
