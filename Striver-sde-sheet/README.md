@@ -155,3 +155,4 @@
 | 127 | Invert a binary tree | [🤔](https://github.com/RohitKumar-200/DSA/blob/main/Striver-sde-sheet/127_Invert_a_binary_tree.md) [😎](https://github.com/RohitKumar-200/DSA/blob/main/Striver-sde-sheet/127_Invert_a_binary_tree.md) |
 | 128 | Children sum property | [🤔](https://www.codingninjas.com/codestudio/problems/childrensumproperty_790723) [👀](https://youtu.be/fnmisPM6cVo) [😎](https://github.com/RohitKumar-200/DSA/blob/main/Striver-sde-sheet/128_Children_sum_property.md) |
 | Day 20 | Binary Search Tree ||
+| 129 | Populate next right pointers of tree | [🤔](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/) [😎](https://github.com/RohitKumar-200/DSA/blob/main/Striver-sde-sheet/129_Populate_next_right_pointers_of_tree.md) |
