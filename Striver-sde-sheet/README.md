@@ -154,3 +154,4 @@
 | 126 | Flatten binary tree to linked list | [🤔](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/) [👀](https://youtu.be/sWf7k1x9XR4) [😎](https://github.com/RohitKumar-200/DSA/blob/main/Striver-sde-sheet/126_Flatten_binary_tree_to_linked_list.md) |
 | 127 | Invert a binary tree | [🤔](https://github.com/RohitKumar-200/DSA/blob/main/Striver-sde-sheet/127_Invert_a_binary_tree.md) [😎](https://github.com/RohitKumar-200/DSA/blob/main/Striver-sde-sheet/127_Invert_a_binary_tree.md) |
 | 128 | Children sum property | [🤔](https://www.codingninjas.com/codestudio/problems/childrensumproperty_790723) [👀](https://youtu.be/fnmisPM6cVo) [😎](https://github.com/RohitKumar-200/DSA/blob/main/Striver-sde-sheet/128_Children_sum_property.md) |
+| Day 20 | Binary Search Tree ||
