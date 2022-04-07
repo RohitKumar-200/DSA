@@ -162,3 +162,4 @@
 | 133 | Validate binary search tree | [🤔](https://leetcode.com/problems/validate-binary-search-tree/) [👀](https://youtu.be/f-sj7I5oXEI) [😎](https://github.com/RohitKumar-200/DSA/blob/main/Striver-sde-sheet/133_Validate_binary_search_tree.md) |
 | 134 | LCA of two nodes in a BST | [🤔](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) [👀](https://youtu.be/cX_kPV_foZc) [😎](https://github.com/RohitKumar-200/DSA/blob/main/Striver-sde-sheet/134_LCA_of_two_nodes_in_a_BST.md) |
 | 135 | Predecessor and successor | [🤔](https://practice.geeksforgeeks.org/problems/predecessor-and-successor/1#) [👀](https://youtu.be/SXKAD2svfmI) [😎](https://github.com/RohitKumar-200/DSA/blob/main/Striver-sde-sheet/135_Predecessor_and_successor.md) |
+| Day 21 | Binary Search Tree Part-II ||
