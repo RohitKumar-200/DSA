@@ -165,3 +165,4 @@
 | Day 21 | Binary Search Tree Part-II ||
 | 136 | Floor in a BST | [🤔](https://www.codingninjas.com/codestudio/problems/floor-from-bst_920457) [👀](https://youtu.be/xm_W1ub-K-w) [😎](https://github.com/RohitKumar-200/DSA/blob/main/Striver-sde-sheet/136_Floor_in_a_BST.md) |
 | 137 | Ceil in a BST | [🤔](https://www.codingninjas.com/codestudio/problems/ceil-from-bst_920464) [👀](https://youtu.be/KSsk8AhdOZA) [😎](https://github.com/RohitKumar-200/DSA/blob/main/Striver-sde-sheet/137_Ceil_in_a_BST.md) |
+| 138 | Kth smallest element in BST | [🤔](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) [👀](https://youtu.be/9TJYWh0adfk) [😎](https://github.com/RohitKumar-200/DSA/blob/main/Striver-sde-sheet/138_Kth_smallest_element_in_BST.md) |
