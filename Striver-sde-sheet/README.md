@@ -163,3 +163,4 @@
 | 134 | LCA of two nodes in a BST | [🤔](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) [👀](https://youtu.be/cX_kPV_foZc) [😎](https://github.com/RohitKumar-200/DSA/blob/main/Striver-sde-sheet/134_LCA_of_two_nodes_in_a_BST.md) |
 | 135 | Predecessor and successor | [🤔](https://practice.geeksforgeeks.org/problems/predecessor-and-successor/1#) [👀](https://youtu.be/SXKAD2svfmI) [😎](https://github.com/RohitKumar-200/DSA/blob/main/Striver-sde-sheet/135_Predecessor_and_successor.md) |
 | Day 21 | Binary Search Tree Part-II ||
+| 136 | Floor in a BST | [🤔](https://www.codingninjas.com/codestudio/problems/floor-from-bst_920457) [👀](https://youtu.be/xm_W1ub-K-w) [😎](https://github.com/RohitKumar-200/DSA/blob/main/Striver-sde-sheet/136_Floor_in_a_BST.md) |
