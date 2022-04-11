@@ -172,3 +172,4 @@
 | 142 | Largest BST in binary tree | [🤔](https://practice.geeksforgeeks.org/problems/largest-bst/1) [👀](https://youtu.be/X0oXMdtUDwo) [😎](https://github.com/RohitKumar-200/DSA/blob/main/Striver-sde-sheet/142_Largest_BST_in_binary_tree.md) |
 | 143 | Serialize and deserialize binary tree | [🤔](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) [👀](https://youtu.be/-YbXySKJsX8) [😎](https://github.com/RohitKumar-200/DSA/blob/main/Striver-sde-sheet/143_Serialize_and_deserialize_binary_tree.md) |
 | Day 22 | Binary Trees (Miscellaneous) ||
+| 144 | Binary tree to doubly linked list | [🤔](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/) [👀](https://youtu.be/sWf7k1x9XR4) [😎](https://github.com/RohitKumar-200/DSA/blob/main/Striver-sde-sheet/144_Binary_tree_to_doubly_linked_list.md) |
