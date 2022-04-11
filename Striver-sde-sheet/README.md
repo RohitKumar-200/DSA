@@ -175,3 +175,4 @@
 | 144 | Binary tree to doubly linked list | [🤔](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/) [👀](https://youtu.be/sWf7k1x9XR4) [😎](https://github.com/RohitKumar-200/DSA/blob/main/Striver-sde-sheet/144_Binary_tree_to_doubly_linked_list.md) |
 | 145 | Median of data stream | [🤔](https://leetcode.com/problems/find-median-from-data-stream/) [😎](https://github.com/RohitKumar-200/DSA/blob/main/Striver-sde-sheet/145_Median_of_data_stream.md) |
 | 146 | Kth largest number in a stream | [🤔](https://leetcode.com/problems/kth-largest-element-in-a-stream/) [😎](https://github.com/RohitKumar-200/DSA/blob/main/Striver-sde-sheet/146_Kth_largest_number_in_a_stream.md) |
+| 147 | Distinct numbers in a window | [🤔](https://www.interviewbit.com/problems/distinct-numbers-in-window/) [😎](https://github.com/RohitKumar-200/DSA/blob/main/Striver-sde-sheet/147_Distinct_numbers_in_a_window.md) |
