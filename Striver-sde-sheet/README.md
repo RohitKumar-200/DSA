@@ -171,3 +171,4 @@
 | 141 | Binary search tree iterator | [🤔](https://leetcode.com/problems/binary-search-tree-iterator/) [👀](https://youtu.be/D2jMcmxU4bs) [😎](https://github.com/RohitKumar-200/DSA/blob/main/Striver-sde-sheet/141_Binary_search_tree_iterator.md) |
 | 142 | Largest BST in binary tree | [🤔](https://practice.geeksforgeeks.org/problems/largest-bst/1) [👀](https://youtu.be/X0oXMdtUDwo) [😎](https://github.com/RohitKumar-200/DSA/blob/main/Striver-sde-sheet/142_Largest_BST_in_binary_tree.md) |
 | 143 | Serialize and deserialize binary tree | [🤔](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) [👀](https://youtu.be/-YbXySKJsX8) [😎](https://github.com/RohitKumar-200/DSA/blob/main/Striver-sde-sheet/143_Serialize_and_deserialize_binary_tree.md) |
+| Day 22 | Binary Trees (Miscellaneous) ||
