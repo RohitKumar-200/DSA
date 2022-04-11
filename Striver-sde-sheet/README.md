@@ -173,3 +173,4 @@
 | 143 | Serialize and deserialize binary tree | [🤔](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) [👀](https://youtu.be/-YbXySKJsX8) [😎](https://github.com/RohitKumar-200/DSA/blob/main/Striver-sde-sheet/143_Serialize_and_deserialize_binary_tree.md) |
 | Day 22 | Binary Trees (Miscellaneous) ||
 | 144 | Binary tree to doubly linked list | [🤔](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/) [👀](https://youtu.be/sWf7k1x9XR4) [😎](https://github.com/RohitKumar-200/DSA/blob/main/Striver-sde-sheet/144_Binary_tree_to_doubly_linked_list.md) |
+| 145 | Median of data stream | [🤔](https://leetcode.com/problems/find-median-from-data-stream/) [😎](https://github.com/RohitKumar-200/DSA/blob/main/Striver-sde-sheet/145_Median_of_data_stream.md) |
