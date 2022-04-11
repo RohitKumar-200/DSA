@@ -176,3 +176,4 @@
 | 145 | Median of data stream | [🤔](https://leetcode.com/problems/find-median-from-data-stream/) [😎](https://github.com/RohitKumar-200/DSA/blob/main/Striver-sde-sheet/145_Median_of_data_stream.md) |
 | 146 | Kth largest number in a stream | [🤔](https://leetcode.com/problems/kth-largest-element-in-a-stream/) [😎](https://github.com/RohitKumar-200/DSA/blob/main/Striver-sde-sheet/146_Kth_largest_number_in_a_stream.md) |
 | 147 | Distinct numbers in a window | [🤔](https://www.interviewbit.com/problems/distinct-numbers-in-window/) [😎](https://github.com/RohitKumar-200/DSA/blob/main/Striver-sde-sheet/147_Distinct_numbers_in_a_window.md) |
+| 148 | Kth largest element in an array | [🤔](https://leetcode.com/problems/kth-largest-element-in-an-array/) [😎](https://github.com/RohitKumar-200/DSA/blob/main/Striver-sde-sheet/148_Kth_largest_element_in_an_array.md) |
