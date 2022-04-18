@@ -180,3 +180,4 @@
 | 149 | Flood fill algorithm | [🤔](https://leetcode.com/problems/flood-fill/) [😎](https://github.com/RohitKumar-200/DSA/blob/main/Striver-sde-sheet/149_Flood_fill_algorithm.md) |
 | Day 23 | Graph ||
 | 150 | Clone a graph | [🤔](https://leetcode.com/problems/clone-graph/) [😎](https://github.com/RohitKumar-200/DSA/blob/main/Striver-sde-sheet/150_Clone_a_graph.md) |
+| 151 | Depth first search | [🤔](https://practice.geeksforgeeks.org/problems/depth-first-traversal-for-a-graph/1) [👀](https://youtu.be/uDWljP2PGmU) [😎](https://github.com/RohitKumar-200/DSA/blob/main/Striver-sde-sheet/151_Depth_first_search.md) |
