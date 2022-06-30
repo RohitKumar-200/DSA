@@ -2,6 +2,8 @@
 
 ## Problem statement
 
+In this task, you need to write a regular segment tree for the sum.
+
 The first line contains two integers n and m, the size of the array and the number of operations. The next line contains n numbers ai, the initial state of the array.  
 The following lines contain the description of the operations. The description of each operation is as follows:
 
