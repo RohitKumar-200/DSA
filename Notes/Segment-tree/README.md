@@ -11,3 +11,4 @@
 | 3 | Number of Minimums on a Segment | [🤔](https://codeforces.com/edu/course/2/lesson/4/1/practice/contest/273169/problem/C) [😎](https://github.com/RohitKumar-200/DSA/blob/main/Notes/Segment-tree/Number_of_minimums_on_a_segment.md)|
 | 4 | Segment with the Maximum Sum | [🤔](https://codeforces.com/edu/course/2/lesson/4/2/practice/contest/273278/problem/A) [😎](https://github.com/RohitKumar-200/DSA/blob/main/Notes/Segment-tree/Segment_with_the_maximum_sum.md)|
 | 5 | Kth One | [🤔](https://codeforces.com/edu/course/2/lesson/4/2/practice/contest/273278/problem/B) [😎](https://github.com/RohitKumar-200/DSA/blob/main/Notes/Segment-tree/Kth_one.md)|
+| 6 | First element at least X | [🤔](https://codeforces.com/edu/course/2/lesson/4/2/practice/contest/273278/problem/C) [😎](https://github.com/RohitKumar-200/DSA/blob/main/Notes/Segment-tree/First_element_at_least_x.md)|
