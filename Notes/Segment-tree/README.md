@@ -19,3 +19,4 @@
 | 11 | Interesting Segments | [🤔](https://codeforces.com/edu/course/2/lesson/4/3/practice/contest/274545/problem/D) [😎](https://github.com/RohitKumar-200/DSA/blob/main/Notes/Segment-tree/Interesting_segments.md)|
 | 12 | Addition to Segment | [🤔](https://codeforces.com/edu/course/2/lesson/4/3/practice/contest/274545/problem/E) [😎](https://github.com/RohitKumar-200/DSA/blob/main/Notes/Segment-tree/Addition_to_segment.md)|
 | 13 | Sign Alteration | [🤔](https://codeforces.com/edu/course/2/lesson/4/4/practice/contest/274684/problem/A) [😎](https://github.com/RohitKumar-200/DSA/blob/main/Notes/Segment-tree/Sign_alteration.md)|
+| 14 | Cryptography | [🤔](https://codeforces.com/edu/course/2/lesson/4/4/practice/contest/274684/problem/B) [😎](https://github.com/RohitKumar-200/DSA/blob/main/Notes/Segment-tree/Cryptography.md)|
