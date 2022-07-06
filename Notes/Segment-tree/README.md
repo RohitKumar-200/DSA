@@ -14,3 +14,4 @@
 | 6 | First element at least X | [🤔](https://codeforces.com/edu/course/2/lesson/4/2/practice/contest/273278/problem/C) [😎](https://github.com/RohitKumar-200/DSA/blob/main/Notes/Segment-tree/First_element_at_least_x.md)|
 | 7 | First element at least X - 2 | [🤔](https://codeforces.com/edu/course/2/lesson/4/2/practice/contest/273278/problem/D) [😎](https://github.com/RohitKumar-200/DSA/blob/main/Notes/Segment-tree/First_element_at_least_x_2.md)|
 | 8 | Inversions | [🤔](https://codeforces.com/edu/course/2/lesson/4/3/practice/contest/274545/problem/A) [😎](https://github.com/RohitKumar-200/DSA/blob/main/Notes/Segment-tree/Inversions.md)|
+| 9 | Inversions 2 | [🤔](https://codeforces.com/edu/course/2/lesson/4/3/practice/contest/274545/problem/B) [😎](https://github.com/RohitKumar-200/DSA/blob/main/Notes/Segment-tree/Inversions_2.md)|
