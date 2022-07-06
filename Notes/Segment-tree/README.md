@@ -21,3 +21,4 @@
 | 13 | Sign Alteration | [🤔](https://codeforces.com/edu/course/2/lesson/4/4/practice/contest/274684/problem/A) [😎](https://github.com/RohitKumar-200/DSA/blob/main/Notes/Segment-tree/Sign_alteration.md)|
 | 14 | Cryptography | [🤔](https://codeforces.com/edu/course/2/lesson/4/4/practice/contest/274684/problem/B) [😎](https://github.com/RohitKumar-200/DSA/blob/main/Notes/Segment-tree/Cryptography.md)|
 | 15 | Number of inversions on segment | [🤔](https://codeforces.com/edu/course/2/lesson/4/4/practice/contest/274684/problem/C) [😎](https://github.com/RohitKumar-200/DSA/blob/main/Notes/Segment-tree/Number_of_inversions_on_segment.md)|
+| 16 | Number of different on segment | [🤔](https://codeforces.com/edu/course/2/lesson/4/4/practice/contest/274684/problem/D) [😎](https://github.com/RohitKumar-200/DSA/blob/main/Notes/Segment-tree/Number_of_different_on_segment.md)|
