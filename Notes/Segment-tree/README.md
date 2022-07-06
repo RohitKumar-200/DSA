@@ -17,3 +17,4 @@
 | 9 | Inversions 2 | [🤔](https://codeforces.com/edu/course/2/lesson/4/3/practice/contest/274545/problem/B) [😎](https://github.com/RohitKumar-200/DSA/blob/main/Notes/Segment-tree/Inversions_2.md)|
 | 10 | Nested Segments | [🤔](https://codeforces.com/edu/course/2/lesson/4/3/practice/contest/274545/problem/C) [😎](https://github.com/RohitKumar-200/DSA/blob/main/Notes/Segment-tree/Nested_segments.md)|
 | 11 | Interesting Segments | [🤔](https://codeforces.com/edu/course/2/lesson/4/3/practice/contest/274545/problem/D) [😎](https://github.com/RohitKumar-200/DSA/blob/main/Notes/Segment-tree/Interesting_segments.md)|
+| 12 | Addition to Segment | [🤔](https://codeforces.com/edu/course/2/lesson/4/3/practice/contest/274545/problem/E) [😎](https://github.com/RohitKumar-200/DSA/blob/main/Notes/Segment-tree/Addition_to_segment.md)|
